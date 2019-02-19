@@ -1,8 +1,6 @@
-# Manuals for TJBotCZ
+# Manuales para Ejercicio TJBOT
 ## (Current version: V.1, Latest version: V.1)
 
-Folder _**bring-to-life**_ contains manuals to configure Raspberry pi, upload sample program and run it.
+Carpeta _**TJBOTbuild** _ contiene el manual para montar y codificar el TJBot (sin Visual Recognition)
 
-Folder _**build**_ contains manuals to build TJBot body from cardboard and connect the hardware.
 
-Folder _**watson-services**_ contains manuals to provision necessary Watson services on IBM Cloud.
